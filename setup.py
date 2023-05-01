@@ -74,7 +74,7 @@ setup(
     python_requires=">=3.7,<3.9",
     install_requires=[
         "cryptography>=36.0.0",
-        "Flask==2.1.2",
+        "Flask==2.3.2",
         "Flask-JWT-Extended==4.4.3",
         "Flask-SQLAlchemy==2.5.1",
         "SQLAlchemy==1.4.31",
