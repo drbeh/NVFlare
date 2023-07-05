@@ -79,7 +79,7 @@ setup(
         "Flask-SQLAlchemy==2.5.1",
         "SQLAlchemy==1.4.31",
         "google-api-python-client==2.49.0",
-        "grpcio==1.46.3",
+        "grpcio==1.53.0",
         "gunicorn==20.1.0",
         "numpy",
         "protobuf==3.20.2",
